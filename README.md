@@ -1,0 +1,2 @@
+# RealmRelationColumnUpdateSample
+RealmのリレーションカラムのInsert or Updateを行うサンプルアプリ
